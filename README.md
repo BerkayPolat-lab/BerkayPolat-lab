@@ -22,7 +22,7 @@
 - **[Mood.ai]**: Full-stack audio analyzer using fine-tuned HuBERT models for emotion detection.
 - **[Highly AI]**: Chrome extension for real-time AI-likelihood detection using RoBERTa.
 
---
+---
 
 ### 📫 Let's Connect!
 - 📧 **Email:** [berkay.polat@duke.edu](mailto:berkay.polat@duke.edu) [cite: 2]
