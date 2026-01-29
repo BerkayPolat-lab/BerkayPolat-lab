@@ -25,6 +25,6 @@
 --
 
 ### 📫 Let's Connect!
-- [cite_start]📧 **Email:** [berkay.polat@duke.edu](mailto:berkay.polat@duke.edu) [cite: 2]
-- [cite_start]💼 **LinkedIn:** [https://www.linkedin.com/in/berkay-polat-5bba36207] [cite: 2]
+- 📧 **Email:** [berkay.polat@duke.edu](mailto:berkay.polat@duke.edu) [cite: 2]
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/berkay-polat-5bba36207] [cite: 2]
 - 📍 **Location:** Durham, NC
